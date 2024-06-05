@@ -35,11 +35,11 @@
   "name":"DREAM",
   "resources":[
     {"id":{"name":"inventory","path":"objects/inventory/inventory.yy",},},
-    {"id":{"name":"obj_cutscene","path":"objects/obj_cutscene/obj_cutscene.yy",},},
     {"id":{"name":"obj_grass1","path":"objects/obj_grass1/obj_grass1.yy",},},
     {"id":{"name":"obj_imposter_red1","path":"objects/obj_imposter_red1/obj_imposter_red1.yy",},},
     {"id":{"name":"obj_imposter_yellow1","path":"objects/obj_imposter_yellow1/obj_imposter_yellow1.yy",},},
-    {"id":{"name":"room1cutscene","path":"rooms/room1cutscene/room1cutscene.yy",},},
+    {"id":{"name":"Forest","path":"rooms/Forest/Forest.yy",},},
+    {"id":{"name":"room1cutscene_2","path":"rooms/room1cutscene_2/room1cutscene_2.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"spr_grass1","path":"sprites/spr_grass1/spr_grass1.yy",},},
     {"id":{"name":"spr_imposter_red1","path":"sprites/spr_imposter_red1/spr_imposter_red1.yy",},},
@@ -51,7 +51,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"room1cutscene","path":"rooms/room1cutscene/room1cutscene.yy",},},
+    {"roomId":{"name":"Forest","path":"rooms/Forest/Forest.yy",},},
+    {"roomId":{"name":"room1cutscene_2","path":"rooms/room1cutscene_2/room1cutscene_2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

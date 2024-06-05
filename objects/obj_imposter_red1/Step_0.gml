@@ -4,8 +4,9 @@ right = keyboard_check(vk_right);
 left = keyboard_check(vk_left);
 up = keyboard_check(vk_up);
 down = keyboard_check(vk_down);
-x_spd = movspeed*(right-left);
-y_spd = movspeed*(down-up);
+if(keyboard_check(vk_lshift)){rate_mov=dashspeed;}else{rate_mov=movspeed;}
+x_spd = rate_mov*(right-left);
+y_spd = rate_mov*(down-up);
 if(!(x_spd)&&(!y_spd)){set_animation_frame("idle")}
 if(x_spd>0){set_animation_frame("right")}
 if(x_spd<0){set_animation_frame("left")}

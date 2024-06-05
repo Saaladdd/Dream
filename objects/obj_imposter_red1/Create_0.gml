@@ -1,4 +1,5 @@
 movspeed = 2;
+dashspeed = 4;
 image_index = 0;
 //Set the [0,0] to the frame number ysou animated Ex: 0,1 is first to second frame
 animations ={

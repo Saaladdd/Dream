@@ -19,13 +19,8 @@
   "ResourceOrderSettings":[
     {"name":"inventory","order":2,"path":"objects/inventory/inventory.yy",},
     {"name":"obj_imposter_red1","order":1,"path":"objects/obj_imposter_red1/obj_imposter_red1.yy",},
-    {"name":"obj_imposter_yellow1","order":2,"path":"objects/obj_imposter_yellow1/obj_imposter_yellow1.yy",},
-    {"name":"room1cutscene","order":2,"path":"rooms/room1cutscene/room1cutscene.yy",},
-    {"name":"Script1","order":3,"path":"scripts/Script1/Script1.yy",},
     {"name":"spr_grass1","order":2,"path":"sprites/spr_grass1/spr_grass1.yy",},
     {"name":"spr_imposter_red1","order":3,"path":"sprites/spr_imposter_red1/spr_imposter_red1.yy",},
-    {"name":"spr_imposter_yellow1_1","order":4,"path":"sprites/spr_imposter_yellow1_1/spr_imposter_yellow1_1.yy",},
     {"name":"spr_path1","order":1,"path":"sprites/spr_path1/spr_path1.yy",},
-    {"name":"spr_tree2","order":5,"path":"sprites/spr_tree2/spr_tree2.yy",},
   ],
 }

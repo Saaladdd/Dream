@@ -35,10 +35,10 @@
   "name":"DREAM",
   "resources":[
     {"id":{"name":"inventory","path":"objects/inventory/inventory.yy",},},
+    {"id":{"name":"obj_cutscene","path":"objects/obj_cutscene/obj_cutscene.yy",},},
     {"id":{"name":"obj_grass1","path":"objects/obj_grass1/obj_grass1.yy",},},
     {"id":{"name":"obj_imposter_red1","path":"objects/obj_imposter_red1/obj_imposter_red1.yy",},},
     {"id":{"name":"obj_imposter_yellow1","path":"objects/obj_imposter_yellow1/obj_imposter_yellow1.yy",},},
-    {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"room1cutscene","path":"rooms/room1cutscene/room1cutscene.yy",},},
     {"id":{"name":"spr_grass1","path":"sprites/spr_grass1/spr_grass1.yy",},},

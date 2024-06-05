@@ -18,5 +18,10 @@ if(place_meeting(x+x_spd,y,obj_grass1))==true{
 if(place_meeting(x,y+y_spd,obj_grass1))==true{
     y_spd=0;
 }
+if(place_meeting(x+x_spd,y,all_items) or (place_meeting(x,y+y_spd,all_items))){
+    x_spd=0;
+	y_spd=0;
+};
+
 x += x_spd;
 y += y_spd;

@@ -1,0 +1,1 @@
+//item = global.items_list.rock;

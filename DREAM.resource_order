@@ -17,11 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"inventory","order":2,"path":"objects/inventory/inventory.yy",},
     {"name":"obj_imposter_red1","order":1,"path":"objects/obj_imposter_red1/obj_imposter_red1.yy",},
-    {"name":"spr_boulder1","order":4,"path":"sprites/spr_boulder1/spr_boulder1.yy",},
     {"name":"spr_grass1","order":2,"path":"sprites/spr_grass1/spr_grass1.yy",},
     {"name":"spr_imposter_red1","order":3,"path":"sprites/spr_imposter_red1/spr_imposter_red1.yy",},
     {"name":"spr_path1","order":1,"path":"sprites/spr_path1/spr_path1.yy",},
-    {"name":"spr_rock1","order":5,"path":"sprites/spr_rock1/spr_rock1.yy",},
   ],
 }

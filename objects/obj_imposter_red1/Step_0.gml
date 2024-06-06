@@ -24,10 +24,12 @@ if(place_meeting(x,y+y_spd,obj_grass1)){
 if(place_meeting(x+x_spd,y,_all_items)){
     x_spd=0;
 	pick_up = true;
+	deletion_id = get_instance_id();
 }
 if(place_meeting(x,y+y_spd,_all_items)){
     y_spd=0;
 	pick_up = true;
+	deletion_id = get_instance_id();
 }
 /*if(place_meeting(x+x_spd,y,all_items) or (place_meeting(x,y+y_spd,all_items))){
     x_spd=0;

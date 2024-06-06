@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"_all_items","path":"objects/_all_items/_all_items.yy",},},
     {"id":{"name":"inventory","path":"objects/inventory/inventory.yy",},},
+    {"id":{"name":"obj_camerascroll","path":"objects/obj_camerascroll/obj_camerascroll.yy",},},
     {"id":{"name":"obj_grass1","path":"objects/obj_grass1/obj_grass1.yy",},},
     {"id":{"name":"obj_imposter_red1","path":"objects/obj_imposter_red1/obj_imposter_red1.yy",},},
     {"id":{"name":"obj_imposter_yellow1","path":"objects/obj_imposter_yellow1/obj_imposter_yellow1.yy",},},
@@ -58,8 +59,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Forest","path":"rooms/Forest/Forest.yy",},},
     {"roomId":{"name":"room1cutscene_2","path":"rooms/room1cutscene_2/room1cutscene_2.yy",},},
+    {"roomId":{"name":"Forest","path":"rooms/Forest/Forest.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

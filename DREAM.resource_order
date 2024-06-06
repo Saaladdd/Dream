@@ -2,5 +2,18 @@
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"pixelfont","order":1,"path":"fonts/pixelfont/pixelfont.yy",},
+    {"name":"obj_roomswitch","order":1,"path":"objects/obj_roomswitch/obj_roomswitch.yy",},
+    {"name":"spr_grass1","order":9,"path":"sprites/spr_grass1/spr_grass1.yy",},
+    {"name":"spr_imposter_red1","order":1,"path":"sprites/spr_imposter_red1/spr_imposter_red1.yy",},
+    {"name":"spr_imposter_yellow1_1","order":3,"path":"sprites/spr_imposter_yellow1_1/spr_imposter_yellow1_1.yy",},
+    {"name":"spr_path1","order":11,"path":"sprites/spr_path1/spr_path1.yy",},
+    {"name":"spr_rivertest","order":6,"path":"sprites/spr_rivertest/spr_rivertest.yy",},
+    {"name":"spr_rock1","order":8,"path":"sprites/spr_rock1/spr_rock1.yy",},
+    {"name":"spr_rock2","order":7,"path":"sprites/spr_rock2/spr_rock2.yy",},
+    {"name":"spr_roomswitch","order":12,"path":"sprites/spr_roomswitch/spr_roomswitch.yy",},
+    {"name":"spr_square","order":2,"path":"sprites/spr_square/spr_square.yy",},
+    {"name":"spr_tree1","order":4,"path":"sprites/spr_tree1/spr_tree1.yy",},
+    {"name":"spr_tree2","order":5,"path":"sprites/spr_tree2/spr_tree2.yy",},
+    {"name":"spr_tree3","order":10,"path":"sprites/spr_tree3/spr_tree3.yy",},
   ],
 }

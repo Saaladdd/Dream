@@ -1,7 +1,7 @@
 //Variables
 
-movspeed = 32;
-dashspeed = 48;
+movspeed = 2;
+dashspeed = 4;
 image_index = 0;
 var rate_mov;
 globalvar x_spd, y_spd;

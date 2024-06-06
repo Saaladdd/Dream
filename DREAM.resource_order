@@ -19,6 +19,7 @@
   "ResourceOrderSettings":[
     {"name":"_all_items","order":4,"path":"objects/_all_items/_all_items.yy",},
     {"name":"inventory","order":2,"path":"objects/inventory/inventory.yy",},
+    {"name":"obj_camerascroll","order":5,"path":"objects/obj_camerascroll/obj_camerascroll.yy",},
     {"name":"obj_imposter_red1","order":1,"path":"objects/obj_imposter_red1/obj_imposter_red1.yy",},
     {"name":"obj_rock1","order":3,"path":"objects/obj_rock1/obj_rock1.yy",},
     {"name":"Forest","order":1,"path":"rooms/Forest/Forest.yy",},

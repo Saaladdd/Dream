@@ -34,6 +34,8 @@
   },
   "name":"DREAM",
   "resources":[
+    {"id":{"name":"arial","path":"fonts/arial/arial.yy",},},
+    {"id":{"name":"pixelfont","path":"fonts/pixelfont/pixelfont.yy",},},
     {"id":{"name":"_all_items","path":"objects/_all_items/_all_items.yy",},},
     {"id":{"name":"inventory","path":"objects/inventory/inventory.yy",},},
     {"id":{"name":"obj_camerascroll","path":"objects/obj_camerascroll/obj_camerascroll.yy",},},
@@ -54,6 +56,7 @@
     {"id":{"name":"spr_rivertest","path":"sprites/spr_rivertest/spr_rivertest.yy",},},
     {"id":{"name":"spr_rock1","path":"sprites/spr_rock1/spr_rock1.yy",},},
     {"id":{"name":"spr_rock2","path":"sprites/spr_rock2/spr_rock2.yy",},},
+    {"id":{"name":"spr_square","path":"sprites/spr_square/spr_square.yy",},},
     {"id":{"name":"spr_tree1","path":"sprites/spr_tree1/spr_tree1.yy",},},
     {"id":{"name":"spr_tree2","path":"sprites/spr_tree2/spr_tree2.yy",},},
     {"id":{"name":"spr_tree3","path":"sprites/spr_tree3/spr_tree3.yy",},},
@@ -61,8 +64,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"room1cutscene_2","path":"rooms/room1cutscene_2/room1cutscene_2.yy",},},
     {"roomId":{"name":"Forest","path":"rooms/Forest/Forest.yy",},},
+    {"roomId":{"name":"room1cutscene_2","path":"rooms/room1cutscene_2/room1cutscene_2.yy",},},
     {"roomId":{"name":"USELESS","path":"rooms/USELESS/USELESS.yy",},},
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
   ],

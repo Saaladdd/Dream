@@ -23,20 +23,26 @@ if(place_meeting(x,y+y_spd,obj_grass1)){
 
 if(place_meeting(x+x_spd,y,_all_items)){
     x_spd=0;
-	pick_up = true;
-	deletion_id = get_instance_id();
 }
 if(place_meeting(x,y+y_spd,_all_items)){
     y_spd=0;
-	pick_up = true;
-	deletion_id = get_instance_id();
+	
 }
-/*if(place_meeting(x+x_spd,y,all_items) or (place_meeting(x,y+y_spd,all_items))){
-    x_spd=0;
-	y_spd=0;
-};
-*/
 
+//For pickup and to get deletion id
+for (var i = 0; i < array_length(directions); i++) {
+    var dx = directions[i][0]; // x offset
+    var dy = directions[i][1]; // y offset
+    //show_debug_message("Checking position: (" + string(x + dx) + ", " + string(y + dy) + ")");
+    if (place_meeting(x + dx, y + dy, _all_items)) {
+        pick_up = true; // Set pick_up to true if an item is found
+        show_debug_message("Item found at: (" + string(x + dx) + ", " + string(y + dy) + ")");        
+        with (instance_place(x + dx, y + dy, _all_items)) {
+            deletion_id = id;
+		}
+        break; // Exit the loop once an item is found
+    }
+}
 x += x_spd;
 y += y_spd;
 

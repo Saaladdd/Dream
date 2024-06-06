@@ -1,8 +1,10 @@
 xpos=0;
-ypos=0
+ypos=0;
 
 a=1;
 fadeout=0;
+
+letterbox=0;
 
 str="";
 print="";

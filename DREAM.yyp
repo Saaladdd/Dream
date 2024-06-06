@@ -43,6 +43,8 @@
     {"id":{"name":"obj_rock1","path":"objects/obj_rock1/obj_rock1.yy",},},
     {"id":{"name":"Forest","path":"rooms/Forest/Forest.yy",},},
     {"id":{"name":"room1cutscene_2","path":"rooms/room1cutscene_2/room1cutscene_2.yy",},},
+    {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
+    {"id":{"name":"USELESS","path":"rooms/USELESS/USELESS.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"spr_bush1","path":"sprites/spr_bush1/spr_bush1.yy",},},
     {"id":{"name":"spr_grass1","path":"sprites/spr_grass1/spr_grass1.yy",},},
@@ -62,6 +64,8 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"room1cutscene_2","path":"rooms/room1cutscene_2/room1cutscene_2.yy",},},
     {"roomId":{"name":"Forest","path":"rooms/Forest/Forest.yy",},},
+    {"roomId":{"name":"USELESS","path":"rooms/USELESS/USELESS.yy",},},
+    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

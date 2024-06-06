@@ -6,6 +6,9 @@ image_index = 0;
 var rate_mov;
 globalvar x_spd, y_spd;
 globalvar pick_up;
+globalvar deletion_id;
+deletion_id =0;
+
 //All animation frames structure
 animations ={
 idle:{frames:[0,0]},
@@ -28,3 +31,7 @@ return index;
 }
 //default animations
 set_animation_frame("idle");
+
+function get_instance_id(){
+	return instance_place(x+4,y+4,_all_items);
+}

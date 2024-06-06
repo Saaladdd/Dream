@@ -12,10 +12,18 @@ if(x_spd>0){set_animation_frame("right")}
 if(x_spd<0){set_animation_frame("left")}
 if(y_spd<0){set_animation_frame("up")}
 if(y_spd>0){set_animation_frame("down")}
-if(place_meeting(x+x_spd,y,obj_grass1))==true{
+if(place_meeting(x+x_spd,y,obj_grass1)){
     x_spd=0;
 }
-if(place_meeting(x,y+y_spd,obj_grass1))==true{
+if(place_meeting(x,y+y_spd,obj_grass1)){
+    y_spd=0;
+}
+
+
+if(place_meeting(x+x_spd,y,_all_items)){
+    x_spd=0;
+}
+if(place_meeting(x,y+y_spd,_all_items)){
     y_spd=0;
 }
 /*if(place_meeting(x+x_spd,y,all_items) or (place_meeting(x,y+y_spd,all_items))){
@@ -26,3 +34,5 @@ if(place_meeting(x,y+y_spd,obj_grass1))==true{
 
 x += x_spd;
 y += y_spd;
+//0print("X:",x,"Y:",y);
+show_debug_message("X:",x,"Y:",y)

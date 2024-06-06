@@ -52,6 +52,7 @@
     {"id":{"name":"spr_rivertest","path":"sprites/spr_rivertest/spr_rivertest.yy",},},
     {"id":{"name":"spr_rock1","path":"sprites/spr_rock1/spr_rock1.yy",},},
     {"id":{"name":"spr_rock2","path":"sprites/spr_rock2/spr_rock2.yy",},},
+    {"id":{"name":"spr_square","path":"sprites/spr_square/spr_square.yy",},},
     {"id":{"name":"spr_tree1","path":"sprites/spr_tree1/spr_tree1.yy",},},
     {"id":{"name":"spr_tree2","path":"sprites/spr_tree2/spr_tree2.yy",},},
     {"id":{"name":"spr_tree3","path":"sprites/spr_tree3/spr_tree3.yy",},},

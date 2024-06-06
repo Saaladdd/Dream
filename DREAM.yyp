@@ -34,6 +34,8 @@
   },
   "name":"DREAM",
   "resources":[
+    {"id":{"name":"arial","path":"fonts/arial/arial.yy",},},
+    {"id":{"name":"pixelfont","path":"fonts/pixelfont/pixelfont.yy",},},
     {"id":{"name":"_all_items","path":"objects/_all_items/_all_items.yy",},},
     {"id":{"name":"inventory","path":"objects/inventory/inventory.yy",},},
     {"id":{"name":"obj_camerascroll","path":"objects/obj_camerascroll/obj_camerascroll.yy",},},

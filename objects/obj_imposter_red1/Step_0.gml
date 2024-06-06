@@ -36,7 +36,7 @@ for (var i = 0; i < array_length(directions); i++) {
     //show_debug_message("Checking position: (" + string(x + dx) + ", " + string(y + dy) + ")");
     if (place_meeting(x + dx, y + dy, _all_items)) {
         pick_up = true; // Set pick_up to true if an item is found
-        show_debug_message("Item found at: (" + string(x + dx) + ", " + string(y + dy) + ")");        
+        //show_debug_message("Item found at: (" + string(x + dx) + ", " + string(y + dy) + ")");        
         with (instance_place(x + dx, y + dy, _all_items)) {
             deletion_id = id;
 		}

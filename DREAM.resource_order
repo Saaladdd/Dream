@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+<<<<<<< Updated upstream
     {"name":"_all_items","order":4,"path":"objects/_all_items/_all_items.yy",},
     {"name":"inventory","order":2,"path":"objects/inventory/inventory.yy",},
     {"name":"obj_camerascroll","order":5,"path":"objects/obj_camerascroll/obj_camerascroll.yy",},
@@ -36,5 +37,9 @@
     {"name":"spr_rock2","order":9,"path":"sprites/spr_rock2/spr_rock2.yy",},
     {"name":"spr_tree2","order":1,"path":"sprites/spr_tree2/spr_tree2.yy",},
     {"name":"spr_tree3","order":10,"path":"sprites/spr_tree3/spr_tree3.yy",},
+=======
+    {"name":"pixelfont","order":1,"path":"fonts/pixelfont/pixelfont.yy",},
+    {"name":"Sprite13","order":1,"path":"sprites/Sprite13/Sprite13.yy",},
+>>>>>>> Stashed changes
   ],
 }

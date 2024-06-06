@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"pixelfont","order":1,"path":"fonts/pixelfont/pixelfont.yy",},
+  ],
 }

@@ -55,8 +55,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"room1cutscene_2","path":"rooms/room1cutscene_2/room1cutscene_2.yy",},},
     {"roomId":{"name":"Forest","path":"rooms/Forest/Forest.yy",},},
+    {"roomId":{"name":"room1cutscene_2","path":"rooms/room1cutscene_2/room1cutscene_2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

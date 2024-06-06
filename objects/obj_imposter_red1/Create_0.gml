@@ -1,9 +1,11 @@
 //Variables
+
 movspeed = 2;
 dashspeed = 4;
 image_index = 0;
 var rate_mov;
 globalvar x_spd, y_spd;
+globalvar pick_up;
 //All animation frames structure
 animations ={
 idle:{frames:[0,0]},

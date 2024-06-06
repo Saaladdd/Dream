@@ -21,6 +21,7 @@
     {"name":"obj_imposter_red1","order":1,"path":"objects/obj_imposter_red1/obj_imposter_red1.yy",},
     {"name":"Forest","order":1,"path":"rooms/Forest/Forest.yy",},
     {"name":"room1cutscene_2","order":2,"path":"rooms/room1cutscene_2/room1cutscene_2.yy",},
+    {"name":"Sequence1","order":16,"path":"sequences/Sequence1/Sequence1.yy",},
     {"name":"spr_grass1","order":2,"path":"sprites/spr_grass1/spr_grass1.yy",},
     {"name":"spr_imposter_red1","order":3,"path":"sprites/spr_imposter_red1/spr_imposter_red1.yy",},
     {"name":"spr_path1","order":1,"path":"sprites/spr_path1/spr_path1.yy",},

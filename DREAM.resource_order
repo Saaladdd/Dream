@@ -24,6 +24,8 @@
     {"name":"obj_rock1","order":3,"path":"objects/obj_rock1/obj_rock1.yy",},
     {"name":"Forest","order":1,"path":"rooms/Forest/Forest.yy",},
     {"name":"room1cutscene_2","order":2,"path":"rooms/room1cutscene_2/room1cutscene_2.yy",},
+    {"name":"Room4","order":4,"path":"rooms/Room4/Room4.yy",},
+    {"name":"USELESS","order":3,"path":"rooms/USELESS/USELESS.yy",},
     {"name":"spr_bush1","order":8,"path":"sprites/spr_bush1/spr_bush1.yy",},
     {"name":"spr_grass1","order":4,"path":"sprites/spr_grass1/spr_grass1.yy",},
     {"name":"spr_imposter_red1","order":5,"path":"sprites/spr_imposter_red1/spr_imposter_red1.yy",},

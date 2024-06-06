@@ -48,6 +48,8 @@
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"spr_bush1","path":"sprites/spr_bush1/spr_bush1.yy",},},
     {"id":{"name":"spr_grass1","path":"sprites/spr_grass1/spr_grass1.yy",},},
+    {"id":{"name":"spr_house1","path":"sprites/spr_house1/spr_house1.yy",},},
+    {"id":{"name":"spr_house2","path":"sprites/spr_house2/spr_house2.yy",},},
     {"id":{"name":"spr_imposter_red1","path":"sprites/spr_imposter_red1/spr_imposter_red1.yy",},},
     {"id":{"name":"spr_imposter_yellow1_1","path":"sprites/spr_imposter_yellow1_1/spr_imposter_yellow1_1.yy",},},
     {"id":{"name":"spr_path1","path":"sprites/spr_path1/spr_path1.yy",},},
@@ -57,7 +59,11 @@
     {"id":{"name":"spr_tree1","path":"sprites/spr_tree1/spr_tree1.yy",},},
     {"id":{"name":"spr_tree2","path":"sprites/spr_tree2/spr_tree2.yy",},},
     {"id":{"name":"spr_tree3","path":"sprites/spr_tree3/spr_tree3.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},},
+=======
+    {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
+>>>>>>> Stashed changes
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

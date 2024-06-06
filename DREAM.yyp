@@ -42,6 +42,7 @@
     {"id":{"name":"obj_rock1","path":"objects/obj_rock1/obj_rock1.yy",},},
     {"id":{"name":"Forest","path":"rooms/Forest/Forest.yy",},},
     {"id":{"name":"room1cutscene_2","path":"rooms/room1cutscene_2/room1cutscene_2.yy",},},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"spr_bush1","path":"sprites/spr_bush1/spr_bush1.yy",},},
     {"id":{"name":"spr_grass1","path":"sprites/spr_grass1/spr_grass1.yy",},},
@@ -54,12 +55,14 @@
     {"id":{"name":"spr_tree1","path":"sprites/spr_tree1/spr_tree1.yy",},},
     {"id":{"name":"spr_tree2","path":"sprites/spr_tree2/spr_tree2.yy",},},
     {"id":{"name":"spr_tree3","path":"sprites/spr_tree3/spr_tree3.yy",},},
+    {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Forest","path":"rooms/Forest/Forest.yy",},},
     {"roomId":{"name":"room1cutscene_2","path":"rooms/room1cutscene_2/room1cutscene_2.yy",},},
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

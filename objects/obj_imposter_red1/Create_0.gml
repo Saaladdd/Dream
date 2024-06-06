@@ -1,13 +1,25 @@
 //Variables
 
-movspeed = 2;
-dashspeed = 4;
+movspeed = 32;
+dashspeed = 48;
 image_index = 0;
 var rate_mov;
 globalvar x_spd, y_spd;
 globalvar pick_up;
 globalvar deletion_id;
-deletion_id =0;
+deletion_id =-1;
+directions = [
+    [8, 8],     // bottom-right
+    [-8, -8],   // top-left
+    [8, -8],    // top-right
+    [-8, 8],    // bottom-left
+    [8, 0],     // right
+    [0, -8],    // top
+    [0, 8],     // bottom
+    [-8, 0]  
+];
+pick_up = false;
+
 
 //All animation frames structure
 animations ={
@@ -32,6 +44,4 @@ return index;
 //default animations
 set_animation_frame("idle");
 
-function get_instance_id(){
-	return instance_place(x+4,y+4,_all_items);
-}
+

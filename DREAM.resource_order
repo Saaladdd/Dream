@@ -39,19 +39,7 @@
     {"name":"spr_tree3","order":10,"path":"sprites/spr_tree3/spr_tree3.yy",},
 =======
     {"name":"pixelfont","order":1,"path":"fonts/pixelfont/pixelfont.yy",},
-    {"name":"oRoomSwitch","order":1,"path":"objects/oRoomSwitch/oRoomSwitch.yy",},
-    {"name":"spr_bush1","order":2,"path":"sprites/spr_bush1/spr_bush1.yy",},
-    {"name":"spr_grass1","order":8,"path":"sprites/spr_grass1/spr_grass1.yy",},
-    {"name":"spr_imposter_yellow1_1","order":3,"path":"sprites/spr_imposter_yellow1_1/spr_imposter_yellow1_1.yy",},
-    {"name":"spr_path1","order":5,"path":"sprites/spr_path1/spr_path1.yy",},
-    {"name":"spr_rivertest","order":7,"path":"sprites/spr_rivertest/spr_rivertest.yy",},
-    {"name":"spr_rock1","order":9,"path":"sprites/spr_rock1/spr_rock1.yy",},
-    {"name":"spr_rock2","order":1,"path":"sprites/spr_rock2/spr_rock2.yy",},
-    {"name":"spr_roomswitchobj","order":12,"path":"sprites/spr_roomswitchobj/spr_roomswitchobj.yy",},
-    {"name":"spr_square","order":10,"path":"sprites/spr_square/spr_square.yy",},
-    {"name":"spr_tree1","order":4,"path":"sprites/spr_tree1/spr_tree1.yy",},
-    {"name":"spr_tree2","order":11,"path":"sprites/spr_tree2/spr_tree2.yy",},
-    {"name":"spr_tree3","order":6,"path":"sprites/spr_tree3/spr_tree3.yy",},
+    {"name":"Sprite13","order":1,"path":"sprites/Sprite13/Sprite13.yy",},
 >>>>>>> Stashed changes
   ],
 }

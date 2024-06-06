@@ -20,5 +20,12 @@ if(letter > string_length(str)+50) and (next < array_length(strings)-1) //to cha
 	next++;
 	if(letter == array_length(strings)-1) holdspace++; 
 }
-
 str=strings[next];
+
+
+if(keyboard_check_direct(vk_space))
+{
+	holdspace++;
+}
+
+if(holdspace>10) or (ypos > 500) fadeout=1;

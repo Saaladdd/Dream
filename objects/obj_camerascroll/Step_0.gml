@@ -3,9 +3,12 @@
 camera_set_view_pos(view_camera[0],xpos,ypos)
 ypos=min(ypos+0.5,800); //to increase speed of scroll increase x value in min/max(ypos+x)
 						//to change the end of scroll change the scond value in main/max function
+//if(ypos=400)
+//{
+//	xpos=min(xpos+0.5,400);
+//}
 						
-						
-
+//uncomment upper code to unlock x axis movement
 
 
 if (!fadeout) a=max(a-0.005,0.25);  //to increase fade speed incease x in max(a-x)
@@ -28,4 +31,4 @@ if(keyboard_check_direct(vk_space))
 	holdspace++;
 }
 
-if(holdspace>10) or (ypos > 500) fadeout=1;
+if(holdspace>10) or (ypos > 400) fadeout=1;  //change ypos > value to change fadeout timing

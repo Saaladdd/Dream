@@ -15,5 +15,6 @@
     {"name":"spr_tree1","order":4,"path":"sprites/spr_tree1/spr_tree1.yy",},
     {"name":"spr_tree2","order":5,"path":"sprites/spr_tree2/spr_tree2.yy",},
     {"name":"spr_tree3","order":10,"path":"sprites/spr_tree3/spr_tree3.yy",},
+    {"name":"Sprite14","order":1,"path":"sprites/Sprite14/Sprite14.yy",},
   ],
 }

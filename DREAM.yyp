@@ -62,6 +62,7 @@
     {"id":{"name":"spr_tree1","path":"sprites/spr_tree1/spr_tree1.yy",},},
     {"id":{"name":"spr_tree2","path":"sprites/spr_tree2/spr_tree2.yy",},},
     {"id":{"name":"spr_tree3","path":"sprites/spr_tree3/spr_tree3.yy",},},
+    {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

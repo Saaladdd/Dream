@@ -18,7 +18,7 @@ if(letter > string_length(str)+50) and (next < array_length(strings)-1) //to cha
 {																		
 	letter=0;
 	next++;
-	if(letter == array_length(strings)-1) holdspace++; 
+	 
 }
 str=strings[next];
 

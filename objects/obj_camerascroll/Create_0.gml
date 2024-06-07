@@ -14,7 +14,7 @@ print="";
 letter=0;
 next=0;
 
-strings[0]="IN A WORLD OF TOMBOYS";
+strings[0]="IN A WORLD OF TOMBOYS";  //to add more lines of text just add more strings[]
 strings[1]="THERE EXISTED ONLY ONE";
 strings[2]="ULTIMATE\nFEMBOY";
 

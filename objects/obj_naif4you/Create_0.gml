@@ -1,6 +1,5 @@
 //Variables
 
-movspeed = 2;
-dashspeed = 4;
+movspeed = 0.5;
 image_index = 0;
 //Yep

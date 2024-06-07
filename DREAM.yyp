@@ -46,6 +46,8 @@
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"id":{"name":"USELESS","path":"rooms/USELESS/USELESS.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"spr_barrel1","path":"sprites/spr_barrel1/spr_barrel1.yy",},},
+    {"id":{"name":"spr_barrel2","path":"sprites/spr_barrel2/spr_barrel2.yy",},},
     {"id":{"name":"spr_bush1","path":"sprites/spr_bush1/spr_bush1.yy",},},
     {"id":{"name":"spr_grass1","path":"sprites/spr_grass1/spr_grass1.yy",},},
     {"id":{"name":"spr_house1","path":"sprites/spr_house1/spr_house1.yy",},},
@@ -56,6 +58,7 @@
     {"id":{"name":"spr_rivertest","path":"sprites/spr_rivertest/spr_rivertest.yy",},},
     {"id":{"name":"spr_rock1","path":"sprites/spr_rock1/spr_rock1.yy",},},
     {"id":{"name":"spr_rock2","path":"sprites/spr_rock2/spr_rock2.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"spr_tree1","path":"sprites/spr_tree1/spr_tree1.yy",},},
     {"id":{"name":"spr_tree2","path":"sprites/spr_tree2/spr_tree2.yy",},},
     {"id":{"name":"spr_tree3","path":"sprites/spr_tree3/spr_tree3.yy",},},
@@ -63,6 +66,17 @@
     {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},},
 =======
     {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
+>>>>>>> Stashed changes
+=======
+    {"id":{"name":"spr_roomswitch","path":"sprites/spr_roomswitch/spr_roomswitch.yy",},},
+    {"id":{"name":"spr_square","path":"sprites/spr_square/spr_square.yy",},},
+    {"id":{"name":"spr_streetlampleft1","path":"sprites/spr_streetlampleft1/spr_streetlampleft1.yy",},},
+    {"id":{"name":"spr_streetlamppright1","path":"sprites/spr_streetlamppright1/spr_streetlamppright1.yy",},},
+    {"id":{"name":"spr_tree1","path":"sprites/spr_tree1/spr_tree1.yy",},},
+    {"id":{"name":"spr_tree2","path":"sprites/spr_tree2/spr_tree2.yy",},},
+    {"id":{"name":"spr_tree3","path":"sprites/spr_tree3/spr_tree3.yy",},},
+    {"id":{"name":"spr_tree4","path":"sprites/spr_tree4/spr_tree4.yy",},},
+    {"id":{"name":"Sprite19","path":"sprites/Sprite19/Sprite19.yy",},},
 >>>>>>> Stashed changes
   ],
   "resourceType":"GMProject",

@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"_all_items","order":4,"path":"objects/_all_items/_all_items.yy",},
     {"name":"inventory","order":2,"path":"objects/inventory/inventory.yy",},
     {"name":"obj_camerascroll","order":5,"path":"objects/obj_camerascroll/obj_camerascroll.yy",},
@@ -57,6 +58,34 @@
     {"name":"spr_tree1","order":8,"path":"sprites/spr_tree1/spr_tree1.yy",},
     {"name":"spr_tree3","order":11,"path":"sprites/spr_tree3/spr_tree3.yy",},
     {"name":"Sprite15","order":14,"path":"sprites/Sprite15/Sprite15.yy",},
+>>>>>>> Stashed changes
+=======
+    {"name":"pixelfont","order":1,"path":"fonts/pixelfont/pixelfont.yy",},
+    {"name":"obj_naif4you","order":3,"path":"objects/obj_naif4you/obj_naif4you.yy",},
+    {"name":"obj_roomswitch","order":1,"path":"objects/obj_roomswitch/obj_roomswitch.yy",},
+    {"name":"Room5","order":1,"path":"rooms/Room5/Room5.yy",},
+    {"name":"spr_barrel1","order":19,"path":"sprites/spr_barrel1/spr_barrel1.yy",},
+    {"name":"spr_barrel2","order":20,"path":"sprites/spr_barrel2/spr_barrel2.yy",},
+    {"name":"spr_dirtpath1","order":16,"path":"sprites/spr_dirtpath1/spr_dirtpath1.yy",},
+    {"name":"spr_grass1","order":9,"path":"sprites/spr_grass1/spr_grass1.yy",},
+    {"name":"spr_house1","order":14,"path":"sprites/spr_house1/spr_house1.yy",},
+    {"name":"spr_house2","order":15,"path":"sprites/spr_house2/spr_house2.yy",},
+    {"name":"spr_imposter_red1","order":1,"path":"sprites/spr_imposter_red1/spr_imposter_red1.yy",},
+    {"name":"spr_imposter_yellow1_1","order":3,"path":"sprites/spr_imposter_yellow1_1/spr_imposter_yellow1_1.yy",},
+    {"name":"spr_path1","order":11,"path":"sprites/spr_path1/spr_path1.yy",},
+    {"name":"spr_playermodel1","order":13,"path":"sprites/spr_playermodel1/spr_playermodel1.yy",},
+    {"name":"spr_rivertest","order":6,"path":"sprites/spr_rivertest/spr_rivertest.yy",},
+    {"name":"spr_rock1","order":8,"path":"sprites/spr_rock1/spr_rock1.yy",},
+    {"name":"spr_rock2","order":7,"path":"sprites/spr_rock2/spr_rock2.yy",},
+    {"name":"spr_roomswitch","order":12,"path":"sprites/spr_roomswitch/spr_roomswitch.yy",},
+    {"name":"spr_square","order":2,"path":"sprites/spr_square/spr_square.yy",},
+    {"name":"spr_streetlampleft1","order":21,"path":"sprites/spr_streetlampleft1/spr_streetlampleft1.yy",},
+    {"name":"spr_streetlamppright1","order":22,"path":"sprites/spr_streetlamppright1/spr_streetlamppright1.yy",},
+    {"name":"spr_tree1","order":4,"path":"sprites/spr_tree1/spr_tree1.yy",},
+    {"name":"spr_tree2","order":5,"path":"sprites/spr_tree2/spr_tree2.yy",},
+    {"name":"spr_tree3","order":10,"path":"sprites/spr_tree3/spr_tree3.yy",},
+    {"name":"spr_tree4","order":17,"path":"sprites/spr_tree4/spr_tree4.yy",},
+    {"name":"Sprite19","order":18,"path":"sprites/Sprite19/Sprite19.yy",},
 >>>>>>> Stashed changes
   ],
 }

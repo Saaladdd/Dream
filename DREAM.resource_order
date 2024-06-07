@@ -3,6 +3,8 @@
   "ResourceOrderSettings":[
     {"name":"pixelfont","order":1,"path":"fonts/pixelfont/pixelfont.yy",},
     {"name":"obj_roomswitch","order":1,"path":"objects/obj_roomswitch/obj_roomswitch.yy",},
+    {"name":"Room5","order":1,"path":"rooms/Room5/Room5.yy",},
+    {"name":"spr_dirtpath1","order":16,"path":"sprites/spr_dirtpath1/spr_dirtpath1.yy",},
     {"name":"spr_grass1","order":9,"path":"sprites/spr_grass1/spr_grass1.yy",},
     {"name":"spr_house1","order":14,"path":"sprites/spr_house1/spr_house1.yy",},
     {"name":"spr_house2","order":15,"path":"sprites/spr_house2/spr_house2.yy",},
@@ -18,5 +20,6 @@
     {"name":"spr_tree1","order":4,"path":"sprites/spr_tree1/spr_tree1.yy",},
     {"name":"spr_tree2","order":5,"path":"sprites/spr_tree2/spr_tree2.yy",},
     {"name":"spr_tree3","order":10,"path":"sprites/spr_tree3/spr_tree3.yy",},
+    {"name":"spr_tree4","order":17,"path":"sprites/spr_tree4/spr_tree4.yy",},
   ],
 }

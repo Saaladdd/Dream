@@ -11,8 +11,8 @@ ypos=min(ypos+0.5,800); //to increase speed of scroll increase x value in min/ma
 //uncomment upper code to unlock x axis movement
 
 
-if (!fadeout) a=max(a-0.005,0.25);  //to increase fade speed incease x in max(a-x)
-else a=min(a+0.005,1);
+if (!fadeout) a=max(a-0.005,0);  //to increase fade speed incease x in max(a-x) //fadein
+else a=min(a+0.005,1);				//fadeout
 
 letter+=0.25 //change value from 0 to 1 to change speed of each letter appearing
 print=string_copy(str,1,letter);
@@ -32,3 +32,10 @@ if(keyboard_check_direct(vk_space))
 }
 
 if(holdspace>10) or (ypos > 400) fadeout=1;  //change ypos > value to change fadeout timing
+
+//if(a=1) and (fadeout=1)
+//{
+//	room_goto();
+//}
+
+//uncomment above to enable moving to other rooms

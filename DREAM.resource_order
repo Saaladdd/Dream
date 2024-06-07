@@ -2,6 +2,7 @@
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"pixelfont","order":1,"path":"fonts/pixelfont/pixelfont.yy",},
+    {"name":"obj_naif4you","order":3,"path":"objects/obj_naif4you/obj_naif4you.yy",},
     {"name":"obj_roomswitch","order":1,"path":"objects/obj_roomswitch/obj_roomswitch.yy",},
     {"name":"spr_grass1","order":9,"path":"sprites/spr_grass1/spr_grass1.yy",},
     {"name":"spr_house1","order":14,"path":"sprites/spr_house1/spr_house1.yy",},

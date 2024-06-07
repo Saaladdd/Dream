@@ -7,6 +7,7 @@ left = keyboard_check(vk_left);
 up = keyboard_check(vk_up);
 down = keyboard_check(vk_down);
 if(keyboard_check(vk_lshift)){rate_mov=dashspeed;image_speed = 2;}else{rate_mov=movspeed;}
+//if((down and right)or(down and left) or (up and right)or(up and left)){}
 x_spd = rate_mov*(right-left);
 y_spd = rate_mov*(down-up);
 if(!(x_spd)&&(!y_spd)){set_animation_frame("idle")}

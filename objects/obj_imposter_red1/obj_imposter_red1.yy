@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_imposter_red1",
-    "path":"sprites/spr_imposter_red1/spr_imposter_red1.yy",
+    "name":"spr_playermodel1",
+    "path":"sprites/spr_playermodel1/spr_playermodel1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,4 +1,4 @@
-`//camera movement and fade speed
+//camera movement and fade speed
 
 camera_set_view_pos(view_camera[0],xpos,ypos)
 ypos=min(ypos+0.5,800); //to increase speed of scroll increase x value in min/max(ypos+x)

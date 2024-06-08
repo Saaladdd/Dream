@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_streetlampright2",
   "bboxMode":0,
-  "bbox_bottom":57,
-  "bbox_left":24,
-  "bbox_right":53,
+  "bbox_bottom":28,
+  "bbox_left":12,
+  "bbox_right":26,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":32,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"1fcd9d3b-191e-479f-a37c-16f6895ae413","blendMode":0,"displayName":"default","isLocked":false,"name":"1fcd9d3b-191e-479f-a37c-16f6895ae413","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":32,
 }

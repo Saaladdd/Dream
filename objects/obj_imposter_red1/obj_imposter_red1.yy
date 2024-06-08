@@ -5,6 +5,7 @@
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_roomswitch","path":"objects/obj_roomswitch/obj_roomswitch.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_imposter_red1",
@@ -35,9 +36,6 @@
     "name":"spr_playermodel1",
     "path":"sprites/spr_playermodel1/spr_playermodel1.yy",
   },
-  "spriteMaskId":{
-    "name":"spr_playermodel1",
-    "path":"sprites/spr_playermodel1/spr_playermodel1.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }

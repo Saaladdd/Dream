@@ -15,10 +15,10 @@ if(x_spd>0){set_animation_frame("right")}
 if(x_spd<0){set_animation_frame("left")}
 if(y_spd<0){set_animation_frame("up")}
 if(y_spd>0){set_animation_frame("down")}
-if(place_meeting(x+x_spd,y,obj_collision)){
+if(place_meeting(x+x_spd,y,obj_grass1)){
     x_spd=0;
 }
-if(place_meeting(x,y+y_spd,obj_collision)){
+if(place_meeting(x,y+y_spd,obj_grass1)){
     y_spd=0;
 }
 
@@ -47,8 +47,6 @@ for (var i = 0; i < array_length(directions); i++) {
 }
 x += x_spd;
 y += y_spd;
-// Loop through all views
-
 
 //0print("X:",x,"Y:",y);
 show_debug_message("PLAYER:X:{0} Y:{1}",x,y);

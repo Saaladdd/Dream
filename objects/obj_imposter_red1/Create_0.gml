@@ -1,5 +1,4 @@
 //Variables
-i=0;
 
 movspeed = 2;
 dashspeed = 4;

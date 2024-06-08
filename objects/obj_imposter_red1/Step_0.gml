@@ -47,6 +47,8 @@ for (var i = 0; i < array_length(directions); i++) {
 }
 x += x_spd;
 y += y_spd;
+// Loop through all views
+
 
 //0print("X:",x,"Y:",y);
 show_debug_message("PLAYER:X:{0} Y:{1}",x,y);

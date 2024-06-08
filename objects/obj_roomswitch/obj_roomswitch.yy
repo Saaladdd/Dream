@@ -4,6 +4,8 @@
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_imposter_red1","path":"objects/obj_imposter_red1/obj_imposter_red1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_roomswitch",
@@ -13,7 +15,7 @@
     "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
-  "persistent":false,
+  "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -35,5 +37,5 @@
     "path":"sprites/spr_roomswitch/spr_roomswitch.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

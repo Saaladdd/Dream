@@ -53,6 +53,7 @@
     {"name":"inst_16CC6998","path":"rooms/Forest/Forest.yy",},
     {"name":"inst_6290E747","path":"rooms/Forest/Forest.yy",},
     {"name":"inst_7782CAD3","path":"rooms/Forest/Forest.yy",},
+    {"name":"inst_589F408D","path":"rooms/Forest/Forest.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -118,6 +119,7 @@
         {"$GMRInstance":"","%Name":"inst_16CC6998","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_16CC6998","objectId":{"name":"obj_roomswitch","path":"objects/obj_roomswitch/obj_roomswitch.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":448.0,"y":0.0,},
         {"$GMRInstance":"","%Name":"inst_6290E747","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6290E747","objectId":{"name":"obj_roomswitch","path":"objects/obj_roomswitch/obj_roomswitch.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":192.0,"y":0.0,},
         {"$GMRInstance":"","%Name":"inst_7782CAD3","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7782CAD3","objectId":{"name":"obj_roomswitch","path":"objects/obj_roomswitch/obj_roomswitch.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":512.0,"y":0.0,},
+        {"$GMRInstance":"","%Name":"inst_589F408D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_589F408D","objectId":{"name":"obj_roomswitch","path":"objects/obj_roomswitch/obj_roomswitch.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":384.0,"y":192.0,},
       ],"layers":[],"name":"Player_and_rock","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Path","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_6B178231_1_1","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_6B178231_1_1","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_path1","path":"sprites/spr_path1/spr_path1.yy",},"x":320.0,"y":512.0,},

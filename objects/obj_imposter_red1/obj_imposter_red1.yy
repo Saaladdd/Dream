@@ -35,6 +35,9 @@
     "name":"spr_playermodel1",
     "path":"sprites/spr_playermodel1/spr_playermodel1.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_playermodel1",
+    "path":"sprites/spr_playermodel1/spr_playermodel1.yy",
+  },
   "visible":true,
 }

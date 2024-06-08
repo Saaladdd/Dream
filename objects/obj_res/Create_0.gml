@@ -1,4 +1,4 @@
 
-set_resolution(1600,900);
+set_resolution(1000,1000);
 
 //window_set_fullscreen(true);

@@ -40,5 +40,6 @@
     {"name":"spr_tree4","order":17,"path":"sprites/spr_tree4/spr_tree4.yy",},
     {"name":"Sprite23","order":22,"path":"sprites/Sprite23/Sprite23.yy",},
     {"name":"Sprite26","order":25,"path":"sprites/Sprite26/Sprite26.yy",},
+    {"name":"Sprite32","order":31,"path":"sprites/Sprite32/Sprite32.yy",},
   ],
 }

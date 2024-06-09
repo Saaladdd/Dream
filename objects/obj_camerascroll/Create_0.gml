@@ -1,6 +1,9 @@
 xpos=0;
 ypos=0;
 
+letterbox_up=0;
+letterbox_down=0;
+
 a=1;
 fadeout=0;
 

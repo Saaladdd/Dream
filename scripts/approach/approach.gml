@@ -1,4 +1,4 @@
-/// Approach(a, b, amount)
+
 function approach(){
 	/// Approach(a, b, amount)
 // Moves "a" towards "b" by "amount" and returns the result
@@ -23,4 +23,5 @@ else
         return argument1;
 }
 return argument0;
+
 }

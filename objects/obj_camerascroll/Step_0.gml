@@ -11,6 +11,10 @@ ypos=min(ypos+0.5,800); //to increase speed of scroll increase x value in min/ma
 //uncomment upper code to unlock x axis movement
 
 
+
+
+
+
 if (!fadeout) a=max(a-0.005,0);  //to increase fade speed incease x in max(a-x) //fadein
 else a=min(a+0.005,1);				//fadeout
 

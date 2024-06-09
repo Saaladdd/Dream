@@ -5,4 +5,4 @@
 
 
 
-draw_sprite_ext(spr_square,0,1,1,1400,1400,0,c_black,a)  //fadein
+draw_sprite_ext(spr_square,0,1,1,3500,2400,0,c_black,a)  //fadein

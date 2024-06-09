@@ -49,6 +49,7 @@
     {"name":"inst_6C453C7E","path":"rooms/room_maptest1/room_maptest1.yy",},
     {"name":"inst_1A87A147","path":"rooms/room_maptest1/room_maptest1.yy",},
     {"name":"inst_77170554","path":"rooms/room_maptest1/room_maptest1.yy",},
+    {"name":"inst_33619C8F","path":"rooms/room_maptest1/room_maptest1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -163,6 +164,7 @@
         {"$GMRInstance":"","%Name":"inst_6C453C7E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6C453C7E","objectId":{"name":"obj_imposter_red1","path":"objects/obj_imposter_red1/obj_imposter_red1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":416.0,"y":96.0,},
         {"$GMRInstance":"","%Name":"inst_1A87A147","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1A87A147","objectId":{"name":"obj_roomswitch","path":"objects/obj_roomswitch/obj_roomswitch.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":384.0,"y":0.0,},
         {"$GMRInstance":"","%Name":"inst_77170554","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_77170554","objectId":{"name":"obj_roomswitch","path":"objects/obj_roomswitch/obj_roomswitch.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":448.0,"y":0.0,},
+        {"$GMRInstance":"","%Name":"inst_33619C8F","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_33619C8F","objectId":{"name":"obj_roomswitch","path":"objects/obj_roomswitch/obj_roomswitch.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":224.0,},
       ],"layers":[],"name":"inst_player","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":true,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"riverbank","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_79D152D5","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_79D152D5","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_riverbank","path":"sprites/spr_riverbank/spr_riverbank.yy",},"x":608.0,"y":640.0,},

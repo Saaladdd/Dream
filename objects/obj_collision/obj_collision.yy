@@ -27,10 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
-  "spriteMaskId":{
-    "name":"spr_grass1",
-    "path":"sprites/spr_grass1/spr_grass1.yy",
+  "spriteId":{
+    "name":"spr_bounds",
+    "path":"sprites/spr_bounds/spr_bounds.yy",
   },
+  "spriteMaskId":null,
   "visible":false,
 }

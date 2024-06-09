@@ -1,11 +1,15 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"Environment","order":7,"path":"folders/Objects/Environment.yy",},
+    {"name":"NPC","order":6,"path":"folders/Objects/NPC.yy",},
+  ],
   "ResourceOrderSettings":[
     {"name":"pixelfont","order":1,"path":"fonts/pixelfont/pixelfont.yy",},
-    {"name":"npc","order":5,"path":"objects/npc/npc.yy",},
+    {"name":"obj_house1","order":2,"path":"objects/obj_house1/obj_house1.yy",},
     {"name":"obj_naif4you","order":3,"path":"objects/obj_naif4you/obj_naif4you.yy",},
     {"name":"obj_res","order":4,"path":"objects/obj_res/obj_res.yy",},
     {"name":"obj_roomswitch","order":1,"path":"objects/obj_roomswitch/obj_roomswitch.yy",},
+    {"name":"obj_tree1","order":1,"path":"objects/obj_tree1/obj_tree1.yy",},
     {"name":"Forest","order":1,"path":"rooms/Forest/Forest.yy",},
     {"name":"room_maptest1","order":6,"path":"rooms/room_maptest1/room_maptest1.yy",},
     {"name":"room1cutscene_2","order":2,"path":"rooms/room1cutscene_2/room1cutscene_2.yy",},
@@ -14,6 +18,7 @@
     {"name":"Script1","order":4,"path":"scripts/Script1/Script1.yy",},
     {"name":"spr_barrel1","order":18,"path":"sprites/spr_barrel1/spr_barrel1.yy",},
     {"name":"spr_barrel2","order":19,"path":"sprites/spr_barrel2/spr_barrel2.yy",},
+    {"name":"spr_bounds","order":51,"path":"sprites/spr_bounds/spr_bounds.yy",},
     {"name":"spr_dirtpath1","order":16,"path":"sprites/spr_dirtpath1/spr_dirtpath1.yy",},
     {"name":"spr_grass1","order":9,"path":"sprites/spr_grass1/spr_grass1.yy",},
     {"name":"spr_grass2","order":23,"path":"sprites/spr_grass2/spr_grass2.yy",},

@@ -20,11 +20,11 @@ if (keyboard_check_pressed(ord("T"))) {
         }
         
         // Resize the application surface to the desired dimensions
-        surface_resize(application_surface, desired_width, desired_height);
+        
     } else {
         // Resize the application surface and set the window size to base resolution
-        surface_resize(application_surface, camera_width, camera_height);
-        window_set_size(camera_width, camera_height);
+        surface_resize(application_surface, desired_width, desired_height);
+        window_set_size(desired_width,desired_height);
         window_center();
     }
 }

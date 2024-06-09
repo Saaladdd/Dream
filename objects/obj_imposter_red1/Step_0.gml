@@ -30,6 +30,8 @@ if(place_meeting(x,y+y_spd,_all_items)){
     y_spd=0;
 	
 }
+
+
 if(place_meeting(x,y,obj_roomswitch)){
     x_spd=0;
 }

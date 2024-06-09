@@ -5,7 +5,6 @@ if (keyboard_check_pressed(ord("T"))) {
     _fullscreen = !_fullscreen;
     window_set_fullscreen(_fullscreen);
 
-    // Adjust the window size when entering or exiting fullscreen
     if (_fullscreen) {
         // Get the display dimensions for fullscreen
         device_width = display_get_width();
@@ -19,13 +18,26 @@ if (keyboard_check_pressed(ord("T"))) {
             desired_width = device_width;
             desired_height = round(desired_width / aspect_ratio);
         }
-
+        
         // Resize the application surface to the desired dimensions
-        surface_resize(application_surface, desired_width, desired_height);
+        
     } else {
         // Resize the application surface and set the window size to base resolution
         surface_resize(application_surface, desired_width, desired_height);
-        window_set_size(desired_width, desired_height);
+        window_set_size(desired_width,desired_height);
         window_center();
     }
+}
+
+// Update camera position to follow the target
+if (instance_exists(camera_target)) {
+    var target_x = camera_target.x - camera_width / 2;
+    var target_y = camera_target.y - camera_height / 2;
+
+    // Ensure the camera does not go out of bounds (optional)
+    target_x = clamp(target_x, 0, room_width - camera_width);
+    target_y = clamp(target_y, 0, room_height - camera_height);
+
+    // Update the camera
+    camera_set_view_pos(camera, target_x, target_y);
 }

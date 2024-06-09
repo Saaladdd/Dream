@@ -31,7 +31,7 @@ if(keyboard_check_direct(vk_space))
 	holdspace++;
 }
 
-if(holdspace>10) or (ypos > 400) fadeout=1;  //change ypos > value to change fadeout timing
+if(holdspace>50) or (ypos > 400) fadeout=1;  //change ypos > value to change fadeout timing
 
 //if(a=1) and (fadeout=1)
 //{

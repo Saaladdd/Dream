@@ -1,6 +1,6 @@
 
 
-
+window_set_caption("THE GAME");
 device_height = display_get_height();
 device_width = display_get_width();
 aspect_ratio = device_width/device_height;

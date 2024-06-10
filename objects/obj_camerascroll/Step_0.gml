@@ -10,6 +10,10 @@ ypos=min(ypos+0.5,800); //to increase speed of scroll increase x value in min/ma
 						
 //uncomment upper code to unlock x axis movement
 
+letterbox_up=min(letterbox_up+2,150);		//to change speed of letterbox appearing
+letterbox_down=max(letterbox_down-2,-150);  //change  +/- value
+
+
 
 
 

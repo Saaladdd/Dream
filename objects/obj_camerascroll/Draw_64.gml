@@ -1,8 +1,8 @@
 //letter boxing and fade
 
 
-draw_sprite_ext(spr_square,0,0,0,1400,150,0,c_black,1);    //upper letterbox
-draw_sprite_ext(spr_square,0,0,700,1400,-150,0,c_black,1); //lower letterbox 
+draw_sprite_ext(spr_square,0,0,0,1400,letterbox_up,0,c_black,1);    //upper letterbox
+draw_sprite_ext(spr_square,0,0,700,1400,letterbox_down,0,c_black,1); //lower letterbox 
 														   //to increase letterbox size change the yscale 
 
 

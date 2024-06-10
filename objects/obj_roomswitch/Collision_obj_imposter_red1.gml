@@ -4,13 +4,14 @@ if(a=1)
 {
 	room_goto(targetRoom);
 	obj_imposter_red1.x = targetX;
-	obj_imposter_red1.y = targetY; 
+	obj_imposter_red1.y = targetY;
+	fadeout=1;
 }	
 
-if(a=1)
-{
-	fadeout=1;
-}
+//if(a=1)
+//{
+//	fadeout=1;
+//}
 	
 //while(a<=1)
 //{
